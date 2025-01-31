@@ -1,4 +1,4 @@
-# Evaluasi Model CLIP pada Klasifikasi Gambar-Teks
+# Evaluasi Performa Model CLIP dalam Klasifikasi Gambar-Teks Spesies, Perilaku, Lokasi, dan Waktu pada Ternak dengan Pendekatan Zero-Shot Learning
 
 ## Deskripsi Proyek
 Proyek ini mengimplementasikan dan mengevaluasi performa model multimodal CLIP dalam klasifikasi gambar-teks, khususnya untuk spesies, perilaku, lokasi, dan waktu hewan ternak. Evaluasi dilakukan pada empat varian model CLIP:
